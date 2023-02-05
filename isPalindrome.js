@@ -10,4 +10,4 @@ function isPalindrome(str) {
     return true
 }
 
-console.log(isPalindrome(`racecar`))
+console.log(isPalindrome(`civic`))
